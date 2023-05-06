@@ -1,0 +1,62 @@
+[
+    {
+        "teacher_id": 1,
+        "first_name": "Ali",
+        "last_name": "Omar",
+        "email": "AliOmar1@gmail.com"
+    },
+    {
+        "teacher_id": 2,
+        "first_name": "John",
+        "last_name": "Hany",
+        "email": "JohnHany2@gmail.com"
+    },
+    {
+        "teacher_id": 3,
+        "first_name": "Ahmed",
+        "last_name": "Hatem",
+        "email": "AhmedHatem3@gmail.com"
+    },
+    {
+        "teacher_id": 4,
+        "first_name": "Khaled",
+        "last_name": "Asem",
+        "email": "KhaledAsem4@gmail.com"
+    },
+    {
+        "teacher_id": 5,
+        "first_name": "Menna",
+        "last_name": "Nader",
+        "email": "MennaNader5@gmail.com"
+    },
+    {
+        "teacher_id": 6,
+        "first_name": "Esraa",
+        "last_name": "Mahmoud",
+        "email": "EsraaMahmoud6@gmail.com"
+    },
+    {
+        "teacher_id": 7,
+        "first_name": "Samar",
+        "last_name": "Ahmed",
+        "email": "SamarAhmed7@gmail.com"
+    },
+    {
+        "teacher_id": 8,
+        "first_name": "Mostafa",
+        "last_name": "Adballah",
+        "email": "MostafaAdballah8@gmail.com"
+    },
+    {
+        "teacher_id": 9,
+        "first_name": "Asmaa",
+        "last_name": "Said",
+        "email": "AsmaaSaid9@gmail.com"
+    },
+    {
+        "teacher_id": 10,
+        "first_name": "Mohamed",
+        "last_name": "Samir",
+        "email": "MohamedSamir10@gmail.com"
+    }
+]
